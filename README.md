@@ -17,5 +17,5 @@ A lightweight RESTful API built with Python and Flask for managing a to-do list.
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone <https://github.com/fredrick-rangara/intro-to-flask>
+   cd <intro-to-flask>
